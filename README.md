@@ -17,3 +17,7 @@ All of the project data is contained in the uploaded project folder. The subfold
 2. Data: contains the original data as well as the prepared data after cleaning and analysis.
 3. Scripts: contain all the Python coding completed in Jupyter Notebook.
 4. Analysis: contains the visualizations generated in Jupyter Notebook.
+
+# Project Report
+
+All the visualizations and some of the analysis can be found on Tableau Public server [Citi Bike Storytelling](https://public.tableau.com/shared/7X4F9W39D?:display_count=n&:origin=viz_share_link)
