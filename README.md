@@ -8,3 +8,12 @@ Our objective is to conduct an in-depth examination, revealing significant trend
 I've taken the Data Set from [Kaggle](https://www.kaggle.com/datasets/ryanmcummings/citi-bike-data). The data set contains information about NYCitiBike's stations location as well as trip durations, cutomer gender and age and more.
 
 I also took a NYC Zip-Code GeoJSON [ NYC Geo JSON](https://cartographyvectors.com/map/508-new-york-city-boroughs-ny)
+
+# Folders
+
+All of the project data is contained in the uploaded project folder. The subfolders contain the following:
+
+1. Project Management: contains the project brief.
+2. Data: contains the original data as well as the prepared data after cleaning and analysis.
+3. Scripts: contain all the Python coding completed in Jupyter Notebook.
+4. Analysis: contains the visualizations generated in Jupyter Notebook.
